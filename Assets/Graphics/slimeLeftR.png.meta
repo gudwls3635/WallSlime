@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 34415647e9068194687981972d11068d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2180574962671525980
+    second: slimeLeftR_0
+  - first:
+      213: -7227560115545240656
+    second: slimeLeftR_1
+  - first:
+      213: -209159472848653958
+    second: slimeLeftR_2
+  - first:
+      213: 6779314397658701241
+    second: slimeLeftR_3
+  - first:
+      213: -4208021538987882909
+    second: slimeLeftR_4
+  - first:
+      213: 232967570085591649
+    second: slimeLeftR_5
+  - first:
+      213: 7296828623355037965
+    second: slimeLeftR_6
+  - first:
+      213: 3871260713908267931
+    second: slimeLeftR_7
+  - first:
+      213: 8135418443194876732
+    second: slimeLeftR_8
+  - first:
+      213: -4335637005250272570
+    second: slimeLeftR_9
+  - first:
+      213: -7951810200444630251
+    second: slimeLeftR_10
+  - first:
+      213: -1447534114447019262
+    second: slimeLeftR_11
+  - first:
+      213: -785184611563370003
+    second: slimeLeftR_12
+  - first:
+      213: 2869841076339379709
+    second: slimeLeftR_13
+  - first:
+      213: -2784459084608816039
+    second: slimeLeftR_14
+  - first:
+      213: -332646677890299158
+    second: slimeLeftR_15
+  - first:
+      213: -6943736386582123440
+    second: slimeLeftR_16
+  - first:
+      213: -2672105309152466751
+    second: slimeLeftR_17
+  - first:
+      213: -4503286536663953921
+    second: slimeLeftR_18
+  - first:
+      213: -3929718346157890372
+    second: slimeLeftR_19
+  - first:
+      213: 8196996033212640798
+    second: slimeLeftR_20
+  - first:
+      213: 3607061792796585734
+    second: slimeLeftR_21
+  - first:
+      213: 9007830641605593140
+    second: slimeLeftR_22
+  - first:
+      213: 6164034788501642383
+    second: slimeLeftR_23
+  - first:
+      213: -1693262962865208962
+    second: slimeLeftR_24
+  - first:
+      213: 8139901138981252757
+    second: slimeLeftR_25
+  - first:
+      213: -8838642216261606237
+    second: slimeLeftR_26
+  - first:
+      213: -4275506702854447004
+    second: slimeLeftR_27
+  - first:
+      213: -1086816464604607383
+    second: slimeLeftR_28
+  - first:
+      213: -2076977156379402439
+    second: slimeLeftR_29
+  - first:
+      213: 2116936297396590829
+    second: slimeLeftR_1
+  - first:
+      213: 887115244285762418
+    second: slimeLeftR_3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slimeLeftR_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 93
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a5281065f24e10800000000000000
+      internalID: 2180574962671525980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 155
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71b27f419ae81df0800000000000000
+      internalID: -209159472848653958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_14
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 14
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c384a173d9b59d0800000000000000
+      internalID: -2784459084608816039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea82a0eb93326bf0800000000000000
+      internalID: -332646677890299158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 82
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c61dfbb84e2af90800000000000000
+      internalID: -6943736386582123440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_17
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 82
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c82885f066caead0800000000000000
+      internalID: -2672105309152466751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_20
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 0
+        width: 93
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eece0767491c170800000000000000
+      internalID: 8196996033212640798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_21
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 0
+        width: 94
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f268ae69bde0230800000000000000
+      internalID: 3607061792796585734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_22
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 0
+        width: 99
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438c7c53e3e320d70800000000000000
+      internalID: 9007830641605593140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_23
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 115
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c5acf4bfc0b8550800000000000000
+      internalID: 6164034788501642383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_24
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 129
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71081b7e425088e0800000000000000
+      internalID: -1693262962865208962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_25
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 0
+        width: 156
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e66c775fcb6f070800000000000000
+      internalID: 8139901138981252757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_26
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 0
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a4f2cbb5d65580800000000000000
+      internalID: -8838642216261606237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slimeLeftR_27
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 96
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4602f8d6e495aa4c0800000000000000
+      internalID: -4275506702854447004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
